@@ -6,18 +6,18 @@
 
 </div>
 
-## Over mij
+## About me
 
-Ik ben **Krijn Moens** — AI & Business Architect. Ik bouw bij **Layers Intelligence** aan een ecosysteem van AI-systemen: lokaal-eerst, gecontroleerd en met bewijs per stap.
+I am an AI & Business Architect with 30 years of entrepreneurial experience. I am building **Layers Intelligence**, an ecosystem of AI systems: local-first, controlled and with proof, step by step.
 
 🌐 [krijnmoens.nl](https://krijnmoens.nl)
 
 ## Focus
 
-- 🧠 Geheugen- en kennissystemen voor AI-agents
-- 🗄️ Local-first archiveren en documentverwerking
-- 🧭 Modelrouting en agent-orkestratie
-- 🏗️ Business- en systeemarchitectuur
+- 🧠 Memory and knowledge systems for AI agents
+- 🗄️ Local-first archiving and document processing
+- 🧭 Model routing and agent orchestration
+- 🏗️ Business and systems architecture
 
 ## Tech
 
